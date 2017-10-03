@@ -1,0 +1,25 @@
+{
+  "name": "Innova",
+  "version": "1.0.0",
+  "description": "upload handouts for innova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwsmAstro/Innova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwsmAstro/Innova/issues"
+  },
+  "homepage": "https://github.com/AwsmAstro/Innova#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "express-fileupload": "^0.2.0"
+  }
+}
